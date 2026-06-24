@@ -94,6 +94,8 @@ AgriSathi AI chains actions autonomously across the agents:
 
  <img width="1920" height="958" alt="Image" src="https://github.com/user-attachments/assets/bc87eb9e-1e7a-4dc6-b0e6-6967203dbb26" />
 
+ <img width="1920" height="958" alt="Image" src="https://github.com/user-attachments/assets/5fadb30c-2649-4420-a9ff-3d46e9443784" />
+
 ---
 
 ## 💻 Installation & Local Run Guide
