@@ -92,6 +92,8 @@ AgriSathi AI chains actions autonomously across the agents:
 8. **Nepali Agent** localizes the summary ->
 9. **Final report is rendered and made available for download**.
 
+ <img width="1920" height="958" alt="Image" src="https://github.com/user-attachments/assets/bc87eb9e-1e7a-4dc6-b0e6-6967203dbb26" />
+
 ---
 
 ## 💻 Installation & Local Run Guide
